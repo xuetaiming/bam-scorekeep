@@ -1,3 +1,3 @@
 # bam-scorekeep
 
-upload your scoresheets and scoresheet companion files for BAM here.
+Fork or branch this repository, upload your scoresheets and companion files, and merge back here
