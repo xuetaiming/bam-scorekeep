@@ -1,3 +1,4 @@
+
 ---
 title: "GAD"
 author: "Taiming Xue"
@@ -50,5 +51,5 @@ cleaned_data <- scorekeep(BAM_RA_raw, GAD7_scoresheet)
 
 GAD7_Cleaned <- cleaned_data[[5]]
 
-save(GAD7_Cleaned, file = 'gad7_cleaned.RData')
-```
+save(GAD7_Cleaned, file = 'gad7_cleaned.RData'
+=======

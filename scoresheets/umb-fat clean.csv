@@ -1,3 +1,4 @@
+
 raw_vars,new_var,label,operation,step,val_labs,new_vals,if_condition,if_true_return,else_return,code
 record_id,NA,NA,raw,0,NA,NA,NA,NA,NA,NA
 umb1,NA,Special effort should be taken to make sure that fat people have the same rights and privileges as other people.,raw,0,"strongly agree =1, moderately agree =2, slightly agree =3, neither agree nor disagree =4, slightly disagree =5, moderately disagree =6, strongly disagree =7",NA,NA,NA,NA,NA
